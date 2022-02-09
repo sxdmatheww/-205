@@ -1,0 +1,26 @@
+28.01.2022
+
+Сообщения об ошибках¶
+In [16]:
+-*42
+  File "<ipython-input-16-85d397208f73>", line 1
+    -*42
+     ^
+SyntaxError: invalid syntax
+In [17]:
+print('test')
+* 23
+test
+
+  File "<ipython-input-17-21eaeacd21f5>", line 2
+    * 23
+        ^
+SyntaxError: can use starred expression only as assignment target
+In [18]:
+5 // 0
+-----------------------------------
+ZeroDivisionError                         Traceback (most recent call last)
+<ipython-input-18-8798db347eeb> in <module>()
+----> 1 5 // 0
+
+ZeroDivisionError: integer division or modulo by zero
