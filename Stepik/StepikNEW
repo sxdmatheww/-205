@@ -1,0 +1,19 @@
+02.03.2022
+https://prnt.sc/dmjIlBEZoPnT
+
+2.2
+name = input()
+print('Привет,', name)
+
+/////////////////////
+
+name1 = input()
+name2 = input()
+name3 = input()
+print(name1)
+print(name2)
+print(name3)
+
+https://prnt.sc/S0SpOQhnKZd2
+/////////////////////
+
