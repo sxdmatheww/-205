@@ -15,3 +15,5 @@ print(b, c, d, sep=a)
 name=input()
 print('Привет,', name, end='!')
 //////////////////////////////////////////
+
+https://ibb.co/H7jmSRB
